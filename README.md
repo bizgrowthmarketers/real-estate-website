@@ -24,3 +24,5 @@ The Real Estate Website offers a comprehensive solution for property searches. U
 - **Agent Contact:** Reach out to certified agents directly from the platform.
 - **Responsive Design:** Optimized for desktop, tablet, and mobile devices.
 - **Newsletter Signup:** Subscribe to receive updates and news.
+
+![Real Estate Design](/real-estate-html-template.jpg)
